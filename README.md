@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vpksangeetha@gmail.com**
 
-- ⚡ **[Sangeetha_Resume](https://drive.google.com/file/d/1QLUfcTfkFFFvqEWXkMpofc4N8I-tDrtQ/view?usp=sharing)**
+- ⚡ **[My Resume](https://drive.google.com/file/d/1QLUfcTfkFFFvqEWXkMpofc4N8I-tDrtQ/view?usp=sharing)**
 
 - 👯 Fun fact: Listening to songs to amplify me.
 
