@@ -4,11 +4,11 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently mastering MERN Stack development course.
-- -👨‍💻 My projects are available at **[My Portfolio](https://sangeetha-portfolio.netlify.app/)**
+
 
 - 📫 How to reach me **vpksangeetha@gmail.com**
 
-- ⚡ **[My Resume](https://drive.google.com/file/d/1QLUfcTfkFFFvqEWXkMpofc4N8I-tDrtQ/view?usp=sharing)**
+
 
 - 👯 Fun fact: Listening to songs to amplify me.
 
